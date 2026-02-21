@@ -32,3 +32,10 @@ Tested via automated batch processing on a dataset of 450 original and tampered 
 * **Cryptography:** `hashlib` (SHA3-512), HMAC, Custom Cellular Automata Logic
 * **Data & Storage:** MongoDB, Pandas, NumPy
 * **Visualization:** Matplotlib
+  
+<img width="1373" height="769" alt="image" src="https://github.com/user-attachments/assets/b255454d-1450-4be0-884e-1e5fff76e396" />
+
+<img width="660" height="865" alt="image" src="https://github.com/user-attachments/assets/8c7ece90-72e7-4aa9-8e53-bf08498dddc5" />
+
+<img width="1163" height="835" alt="image" src="https://github.com/user-attachments/assets/56356bac-34c9-4ba8-9904-244d8ec9ca41" />
+
